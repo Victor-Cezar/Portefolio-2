@@ -1,0 +1,28 @@
+body {
+   background-color: black;
+}
+
+nav {
+   display: flex;
+   justify-content: center;
+
+}
+
+nav p {
+   align-items: center;
+   color: white;
+   margin-left: 10px;
+
+}
+
+nav img {
+   width: 75px;
+   height: 75px;
+   align-items: center;
+
+}
+
+nav a {
+   align-items: center;
+   margin: 80px;
+}
